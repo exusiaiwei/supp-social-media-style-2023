@@ -1,8 +1,12 @@
 # 本科毕业设计附属材料
 
 [English version](https://github.com/exusiaiwei/undergraduate-graduation-project-attachment/blob/main/readme.md)
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)<https://img.shields.io/github/stars/exusiaiwei/undergraduate-graduation-project-attachment><https://img.shields.io/github/forks/exusiaiwei/undergraduate-graduation-project-attachment>
 
+![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/exusiaiwei/undergraduate-graduation-project-attachment)
+
+![GitHub forks](https://img.shields.io/github/forks/exusiaiwei/undergraduate-graduation-project-attachment)
 本项目为本科毕业设计附属材料。包括语料库和进行语料处理，数据分析的代码。
 
 ## 内容列表

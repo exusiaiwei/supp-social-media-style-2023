@@ -1,7 +1,12 @@
 # Undergraduate Graduation Project Attachment
 
 [中文版](https://github.com/exusiaiwei/undergraduate-graduation-project-attachment/blob/main/readme.zh-CN.md)
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)<https://img.shields.io/github/stars/exusiaiwei/undergraduate-graduation-project-attachment><https://img.shields.io/github/forks/exusiaiwei/undergraduate-graduation-project-attachment>
+
+![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/exusiaiwei/undergraduate-graduation-project-attachment)
+
+![GitHub forks](https://img.shields.io/github/forks/exusiaiwei/undergraduate-graduation-project-attachment)
 
 This project contains the attachment materials for my undergraduate graduation project. It includes the corpus and the code for corpus processing and data analysis.
 

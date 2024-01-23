@@ -1,6 +1,6 @@
 # 本科毕业设计附属材料
 
-[English version](https://github.com/exusiaiwei/undergraduate-graduation-project-attachment/blob/main/readme.md)
+[English version](https://github.com/exusiaiwei/undergraduate-graduation-project-attachment/blob/main/README.md)
 
 ![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)
 
@@ -48,6 +48,7 @@ Report文件夹中是交互式报告文本，其中包含了语料库的详细�
 ![GitHub Repo stars](https://img.shields.io/github/stars/exusiaiwei/undergraduate-graduation-project-attachment)
 
 ![GitHub forks](https://img.shields.io/github/forks/exusiaiwei/undergraduate-graduation-project-attachment)
+
 ## 相关仓库
 
 [Tieba_Spider](https://github.com/Aqua-Dream/Tieba_Spider) - 我在这个已经存档的项目上进行了一些修改，以进行论文数据的抓取。

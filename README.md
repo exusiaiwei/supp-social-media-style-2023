@@ -1,6 +1,6 @@
 # Undergraduate Graduation Project Attachment
 
-[中文版](https://github.com/exusiaiwei/undergraduate-graduation-project-attachment/blob/main/readme.zh-CN.md)
+[中文版](https://github.com/exusiaiwei/undergraduate-graduation-project-attachment/blob/main/README.zh-CN.md)
 
 ![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)
 

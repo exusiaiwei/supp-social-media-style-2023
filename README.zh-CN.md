@@ -1,4 +1,4 @@
-# 本科毕业设计附属材料
+# 基于计量特征的社交媒体语体分类研究附属材料
 
 [English version](https://github.com/exusiaiwei/undergraduate-graduation-project-attachment/blob/main/README.md)
 
@@ -7,11 +7,11 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/exusiaiwei/undergraduate-graduation-project-attachment)
 
 ![GitHub forks](https://img.shields.io/github/forks/exusiaiwei/undergraduate-graduation-project-attachment)
-本项目为本科毕业设计附属材料。包括语料库和进行语料处理，数据分析的代码。
+本项目为研究项目“基于计量特征的社交媒体语体分类研究”的附属材料。包括语料库和进行语料处理，数据分析的代码。
 
 ## 内容列表
 
-- [本科毕业设计附属材料](#本科毕业设计附属材料)
+- [基于计量特征的社交媒体语体分类研究附属材料](#基于计量特征的社交媒体语体分类研究附属材料)
   - [内容列表](#内容列表)
   - [背景](#背景)
   - [安装](#安装)
@@ -39,7 +39,7 @@ Code文件夹中是用于语料清洗和数据分析的代码，包括Python和R
 
 Data文件夹中是对语料进行计量语言学分析之后的相关数据，可供其他研究者进行复现。
 
-Report文件夹中是交互式报告文本，其中包含了语料库的详细介绍，数据的可视化呈现。
+（未完成）Report文件夹中是交互式报告文本，其中包含了语料库的详细介绍，数据的可视化呈现。
 
 ## 徽章
 

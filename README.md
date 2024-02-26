@@ -1,4 +1,4 @@
-# Undergraduate Graduation Project Attachment
+# Research on Social Media Register Classification Based on Metric Features Project Attachment
 
 [中文版](https://github.com/exusiaiwei/undergraduate-graduation-project-attachment/blob/main/README.zh-CN.md)
 
@@ -8,11 +8,11 @@
 
 ![GitHub forks](https://img.shields.io/github/forks/exusiaiwei/undergraduate-graduation-project-attachment)
 
-This project contains the attachment materials for my undergraduate graduation project. It includes the corpus and the code for corpus processing and data analysis.
+This project is the supplementary materials for the research project "Research on Social Media Register Classification Based on Metric Features". It includes corpora and code for corpus processing and data analysis.
 
 ## Table of Contents
 
-- [Undergraduate Graduation Project Attachment](#undergraduate-graduation-project-attachment)
+- [Research on Social Media Register Classification Based on Metric Features Project Attachment](#research-on-social-media-register-classification-based-on-metric-features-project-attachment)
   - [Table of Contents](#table-of-contents)
   - [Background](#background)
   - [Installation](#installation)
@@ -40,7 +40,7 @@ The Code folder contains code for corpus cleaning and data analysis, including P
 
 The Data folder contains relevant data after conducting quantitative linguistic analysis on the corpora, which can be used for replication by other researchers.
 
-The Report folder contains interactive report texts that provide detailed introductions to the corpora and visualizations of the data.
+(To do) The Report folder contains interactive report texts that provide detailed introductions to the corpora and visualizations of the data.
 
 ## Badges
 

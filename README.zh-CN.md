@@ -1,12 +1,12 @@
 # 基于计量特征的社交媒体语体分类研究附属材料
 
-[English version](https://github.com/exusiaiwei/undergraduate-graduation-project-attachment/blob/main/README.md)
+[English version](https://github.com/exusiaiwei/project-social-media-style/blob/main/README.md)
 
 ![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/exusiaiwei/undergraduate-graduation-project-attachment)
+![GitHub Repo stars](https://img.shields.io/github/stars/exusiaiwei/project-social-media-style)
 
-![GitHub forks](https://img.shields.io/github/forks/exusiaiwei/undergraduate-graduation-project-attachment)
+![GitHub forks](https://img.shields.io/github/forks/exusiaiwei/project-social-media-style)
 本项目为研究项目“基于计量特征的社交媒体语体分类研究”的附属材料。包括语料库和进行语料处理，数据分析的代码。
 
 ## 内容列表
@@ -45,9 +45,9 @@ Data文件夹中是对语料进行计量语言学分析之后的相关数据，�
 
 ![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/exusiaiwei/undergraduate-graduation-project-attachment)
+![GitHub Repo stars](https://img.shields.io/github/stars/exusiaiwei/project-social-media-style)
 
-![GitHub forks](https://img.shields.io/github/forks/exusiaiwei/undergraduate-graduation-project-attachment)
+![GitHub forks](https://img.shields.io/github/forks/exusiaiwei/project-social-media-style)
 
 ## 相关仓库
 

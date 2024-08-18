@@ -5,26 +5,32 @@
 
 [English](./README.md) · **简体中文**
 
-[![GitHub release](https://img.shields.io/github/v/release/exusiaiwei/supp-social-media-style-2023)]()
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
-![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)
-![GitHub Repo stars](https://img.shields.io/github/stars/exusiaiwei/supp-social-media-style-2023)
-![GitHub forks](https://img.shields.io/github/forks/exusiaiwei/supp-social-media-style-2023)
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/badge/readme%20style-standard-brightgreen.svg" alt="readme style">
+  <img src="https://img.shields.io/github/stars/exusiaiwei/supp-social-media-style-2023" alt="stars">
+  <img src="https://img.shields.io/github/forks/exusiaiwei/supp-social-media-style-2023" alt="forks">
+  <img src="https://img.shields.io/github/license/exusiaiwei/supp-social-media-style-2023" alt="license">
+  <img src="https://img.shields.io/github/last-commit/exusiaiwei/supp-social-media-style-2023" alt="last-commit">
+</p>
 
 </div>
+
 
 本仓库包含"基于计量特征的社交媒体语体分类研究"项目的补充材料，包括语料库、语料处理代码和数据分析工具。
 
 ## 📋 目录
 
-- [背景](#-背景)
-- [仓库结构](#-仓库结构)
-- [安装](#-安装)
-- [使用说明](#-使用说明)
-- [数据](#-数据)
-- [贡献](#-贡献)
-- [相关项目](#-相关项目)
-- [许可证](#-许可证)
+- [社交媒体语体分类研究补充材料](#社交媒体语体分类研究补充材料)
+  - [📋 目录](#-目录)
+  - [🌟 背景](#-背景)
+  - [📁 仓库结构](#-仓库结构)
+  - [🔧 安装](#-安装)
+  - [🚀 使用说明](#-使用说明)
+  - [📊 数据](#-数据)
+  - [🤝 贡献](#-贡献)
+  - [🔗 相关项目](#-相关项目)
+  - [📄 许可证](#-许可证)
 
 ## 🌟 背景
 
@@ -73,4 +79,8 @@ cd supp-social-media-style-2023
 
 本项目采用 MIT 许可证 - 详情请见 [LICENSE](LICENSE) 文件。
 
-<p align="right">(<a href="#readme-top">回到顶部</a>)</p>
+<div align="center">
+  <p>
+    <a href="#-社交媒体语体分类研究补充材料">回到顶部</a>
+  </p>
+</div>

@@ -5,11 +5,14 @@
 
 **English** · [简体中文](./README.zh-CN.md)
 
-[![GitHub release](https://img.shields.io/github/v/release/exusiaiwei/supp-social-media-style-2023)]()
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
-![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)
-![GitHub Repo stars](https://img.shields.io/github/stars/exusiaiwei/supp-social-media-style-2023)
-![GitHub forks](https://img.shields.io/github/forks/exusiaiwei/supp-social-media-style-2023)
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/badge/readme%20style-standard-brightgreen.svg" alt="readme style">
+  <img src="https://img.shields.io/github/stars/exusiaiwei/supp-social-media-style-2023" alt="stars">
+  <img src="https://img.shields.io/github/forks/exusiaiwei/supp-social-media-style-2023" alt="forks">
+  <img src="https://img.shields.io/github/license/exusiaiwei/supp-social-media-style-2023" alt="license">
+  <img src="https://img.shields.io/github/last-commit/exusiaiwei/supp-social-media-style-2023" alt="last-commit">
+</p>
 
 </div>
 
@@ -75,4 +78,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<div align="center">
+  <p>
+    <a href="#-Supplementary Materials for Social Media Style Classification Research">Back to Top</a>
+  </p>
+</div>

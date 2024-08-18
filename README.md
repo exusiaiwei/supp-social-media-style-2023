@@ -1,65 +1,78 @@
-# Research on Social Media Style Classification Based on Quantitative Indicators Project Attachment
+<div align="center">
+<a name="readme-top"></a>
 
-[中文版](https://github.com/exusiaiwei/project-social-media-style/blob/main/README.zh-CN.md)
+# Supplementary Materials for Social Media Style Classification Research
 
+**English** · [简体中文](./README.zh-CN.md)
+
+[![GitHub release](https://img.shields.io/github/v/release/exusiaiwei/supp-social-media-style-2023)]()
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
 ![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/exusiaiwei/supp-social-media-style-2023)
+![GitHub forks](https://img.shields.io/github/forks/exusiaiwei/supp-social-media-style-2023)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/exusiaiwei/project-social-media-style)
+</div>
 
-![GitHub forks](https://img.shields.io/github/forks/exusiaiwei/project-social-media-style)
+This repository contains supplementary materials for the research project "Research on Social Media Style Classification Based on Quantitative Indicators". It includes corpora, code for corpus processing, and data analysis tools.
 
-This project is the supplementary materials for the research project "Research on Social Media Style Classification Based on Quantitative Indicators". It includes corpora and code for corpus processing and data analysis.
+## 📋 Table of Contents
 
-## Table of Contents
+- [Supplementary Materials for Social Media Style Classification Research](#supplementary-materials-for-social-media-style-classification-research)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [🌟 Background](#-background)
+  - [📁 Repository Structure](#-repository-structure)
+  - [🔧 Installation](#-installation)
+  - [🚀 Usage](#-usage)
+  - [📊 Data](#-data)
+  - [🤝 Contributing](#-contributing)
+  - [🔗 Related Projects](#-related-projects)
+  - [📄 License](#-license)
 
-- [Research on Social Media Style Classification Based on Quantitative Indicators Project Attachment](#research-on-social-media-style-classification-based-on-quantitative-indicators-project-attachment)
-  - [Table of Contents](#table-of-contents)
-  - [Background](#background)
-  - [Installation](#installation)
-  - [Instructions](#instructions)
-  - [Badges](#badges)
-  - [Related Repositories](#related-repositories)
-  - [Maintainers](#maintainers)
-  - [License](#license)
+## 🌟 Background
 
-## Background
+This repository serves as an attachment to my undergraduate graduation project, focusing on the classification of social media styles using quantitative indicators.
 
-This is the attachment materials for my undergraduate graduation project.
+## 📁 Repository Structure
 
-## Installation
+- `Corpus/`: Self-built corpora in txt format, named as "topic-form-platform"
+- `Code/`: Python and R scripts for corpus cleaning and data analysis
+- `Data/`: Quantitative linguistic analysis results from the corpora
+- `Report/`: (Upcoming) Interactive reports with detailed corpus introductions and data visualizations
 
-Download the project using Git and make edits and modifications locally.
+## 🔧 Installation
 
-The related code needs to be modified with the file paths before running.
+Clone the repository to your local machine:
 
-## Instructions
+```bash
+git clone https://github.com/exusiaiwei/supp-social-media-style-2023.git
+cd supp-social-media-style-2023
+```
 
-The Corpus folder contains self-built corpora. The corpora are stored in txt format and named in the format of "topic-form-platform".
+Ensure you have the necessary dependencies installed (list to be provided).
 
-The Code folder contains code for corpus cleaning and data analysis, including Python and R code.
+## 🚀 Usage
 
-The Data folder contains relevant data after conducting quantitative linguistic analysis on the corpora, which can be used for replication by other researchers.
+1. Navigate to the `Code/` directory
+2. Modify file paths in the scripts as needed
+3. Run the desired Python or R scripts
 
-(To do) The Report folder contains interactive report texts that provide detailed introductions to the corpora and visualizations of the data.
+For detailed instructions on each script, please refer to the comments within the code files.
 
-## Badges
+## 📊 Data
 
-![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)
+The `Data/` folder contains the results of quantitative linguistic analysis performed on the corpora. This data is available for replication studies by other researchers.
 
-![GitHub Repo stars](https://img.shields.io/github/stars/exusiaiwei/project-social-media-style)
+## 🤝 Contributing
 
-![GitHub forks](https://img.shields.io/github/forks/exusiaiwei/project-social-media-style)
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-## Related Repositories
+## 🔗 Related Projects
 
-[Tieba_Spider](https://github.com/Aqua-Dream/Tieba_Spider) - I made some modifications to this archived project for collecting data for my thesis.
+- [Tieba_Spider](https://github.com/Aqua-Dream/Tieba_Spider): Modified for thesis data collection
+- [WeiboSpider](https://github.com/nghuyong/WeiboSpider): Used for thesis data collection
 
-[WeiboSpider](https://github.com/nghuyong/WeiboSpider) - I used this project for collecting data for my thesis.
+## 📄 License
 
-## Maintainers
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-@exusiaiwei
-
-## License
-
-[MIT](LICENSE) © exusiaiwei
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
